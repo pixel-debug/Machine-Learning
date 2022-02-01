@@ -13,4 +13,4 @@ Instale os modulos Python necessários
 Abra o jupyter notebook digitando:
 	jupyter notebook
 
-Leia e siga as instruções do arquivo "Análise de Atributos usando InfoGain"
+Leia e siga as instruções do arquivo "Overfitting"
