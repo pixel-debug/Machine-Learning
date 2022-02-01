@@ -1,9 +1,9 @@
 # Machine-Learning
 </br>
-</br>
 
+</br>
 <p align="center">
-  <img src="https://c.tenor.com/PbolM0_rug8AAAAd/book-studying.gif">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
 </br>
