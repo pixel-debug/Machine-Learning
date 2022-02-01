@@ -1,4 +1,5 @@
-###Instalação <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+###Instalação 
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
 Instale o python, jupyter notebook e o instalador de pacotes python (se necessario):
 ```
 	apt-get install python3 jupyter python3-pip
