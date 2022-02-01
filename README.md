@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://c.tenor.com/PbolM0_rug8AAAAd/book-studying.gif">
-  
 </p>
 
 </br>
