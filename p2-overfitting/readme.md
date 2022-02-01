@@ -8,18 +8,14 @@ Instale o python, jupyter notebook e o instalador de pacotes python (se necessar
 ```
 <br/>
 Instale os modulos Python necessários
-<br/>
 ```
 	pip3 install -r requirements.txt
 ```
-<br/>
 * caso o pip3 não funcione, tente pip
 *Não é recomendavel usar sudo no pip.
 <br/>
 ###Instalação Jupyter
-<br/>
 Abra o jupyter notebook digitando:
-<br/>
 ```
 	jupyter notebook
 ```
