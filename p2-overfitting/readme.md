@@ -7,17 +7,24 @@ Instale o python, jupyter notebook e o instalador de pacotes python (se necessar
 	apt-get install python3 jupyter python3-pip
 ```
 <br/>
+
+<br/>
 Instale os modulos Python necessários
+<br/>
 ```
 	pip3 install -r requirements.txt
 ```
+<br/>
+
+<br/>
 * caso o pip3 não funcione, tente pip
 *Não é recomendavel usar sudo no pip.
+<br/>
+
 <br/>
 ###Instalação Jupyter
 Abra o jupyter notebook digitando:
 ```
 	jupyter notebook
 ```
-<br/>
 Leia e siga as instruções do arquivo "Overfitting"
