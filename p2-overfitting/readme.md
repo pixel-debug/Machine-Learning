@@ -22,13 +22,13 @@ Instale os modulos Python necessários
 <br/>
 
 <br/>
-* caso o pip3 não funcione, tente pip
+*Caso o pip3 não funcione, tente pip
 <br/>
 *Não é recomendavel usar sudo no pip.
 <br/>
 
 <br/>
-###Instalação Jupyter
+### Instalação Jupyter
 
 <br/>
 Abra o jupyter notebook digitando:
